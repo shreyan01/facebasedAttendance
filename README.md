@@ -13,7 +13,7 @@ An interactive Python program that acts as a face attendance system using the we
 
 ## IDE Used ✅
 
-- Pycharm
+- VS Code
 
 
 ## Prerequisites ✅
